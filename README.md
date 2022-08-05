@@ -1,1 +1,1 @@
-Description for gitHub demo.
+Description for gitHub Repository demo.
